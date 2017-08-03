@@ -1,1 +1,0 @@
-wget -O - "https://genomequebec.mcgill.ca/nanuqMPS/readsetList?projectId=14686&tech=HiSeq" --no-cookies --no-check-certificate --post-data 'j_username=apoulain&j_password=viuliybx' | wget --no-cookies --no-check-certificate --post-data 'j_username=apoulain&j_password=viuliybx' -ci - 
